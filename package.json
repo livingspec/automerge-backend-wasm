@@ -1,8 +1,9 @@
 {
   "name": "@livingspec/automerge-backend-wasm",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "author": "Nemanja Tosic <nemanja@livingspec.com>",
   "license": "MIT",
+  "main": "./dist/webpack",
   "exports": {
     "webpack": "./dist/webpack",
     "node": "./dist/node"
